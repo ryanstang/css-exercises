@@ -1,0 +1,18 @@
+.odd-elements {
+    background-color: rgb(255, 182, 193);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#second-element {
+    color: blue;
+    font-size: 36px;
+}
+
+.size-24 {
+    font-size: 24px;
+}
+
+#fourth-element {
+    background-color: lightgreen;
+    font-weight: bold;
+}
